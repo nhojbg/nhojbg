@@ -13,6 +13,8 @@
 
   [![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/f553928b-901c-49e0-a024-7870e4018865.jpeg?v=1788872816)](https://www.boot.dev/certificates/f553928b-901c-49e0-a024-7870e4018865)
 
+  [![Boot.dev Learn Object Oriented Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/41e1c92f-8e7f-4d0e-8c45-3512ca3d78a2.jpeg?v=1788887470)](https://www.boot.dev/certificates/41e1c92f-8e7f-4d0e-8c45-3512ca3d78a2)
+
 - 🌱 I’m currently learning on the backend development pathway on Boot.dev
 - 👯 I’m looking to collaborate on things in the future (but not yet)
 <!--
