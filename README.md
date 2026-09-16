@@ -15,6 +15,8 @@
 
   [![Boot.dev Learn Object Oriented Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/41e1c92f-8e7f-4d0e-8c45-3512ca3d78a2.jpeg?v=1788887470)](https://www.boot.dev/certificates/41e1c92f-8e7f-4d0e-8c45-3512ca3d78a2)
 
+  [![Boot.dev Build Asteroids using Python and Pygame certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/3222d5e7-20a7-4505-868d-8259ff3262b7.jpeg?v=1789565961)](https://www.boot.dev/certificates/3222d5e7-20a7-4505-868d-8259ff3262b7)
+
 - 🌱 I’m currently learning on the backend development pathway on Boot.dev
 - 👯 I’m looking to collaborate on things in the future (but not yet)
 <!--
