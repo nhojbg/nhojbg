@@ -17,6 +17,8 @@
 
   [![Boot.dev Build Asteroids using Python and Pygame certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/3222d5e7-20a7-4505-868d-8259ff3262b7.jpeg?v=1789565961)](https://www.boot.dev/certificates/3222d5e7-20a7-4505-868d-8259ff3262b7)
 
+  [![Boot.dev Learn Functional Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/7f14ec13-3045-4e64-9d86-08d2f7f361fa.jpeg?v=1792595323)](https://www.boot.dev/certificates/7f14ec13-3045-4e64-9d86-08d2f7f361fa)
+
 - 🌱 I’m currently learning on the backend development pathway on Boot.dev
 - 👯 I’m looking to collaborate on things in the future (but not yet)
 <!--
